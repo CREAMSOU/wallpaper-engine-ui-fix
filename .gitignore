@@ -1,0 +1,12 @@
+# Config backups created by the script
+config.json.bak.*
+*.bak.*
+
+# Logs / crash dumps
+*.log
+*.dmp
+crashdumps/
+
+# Local scratch
+*.tmp
+__pycache__/
